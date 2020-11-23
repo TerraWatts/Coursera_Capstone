@@ -1,5 +1,6 @@
 # Coursera_Capstone
 Watts Dietrich
+
 July 13, 2020
 
 This repository contains my project for the capstone course of the IBM Data Science program.
